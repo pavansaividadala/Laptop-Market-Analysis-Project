@@ -88,8 +88,6 @@ jupyter notebook laptop.ipynb
 **Pavan Sai**
 Aspiring Data Science Engineer | Python · SQL · Machine Learning
 
-Built with **B. Shriya** as part of a data analytics project.
-
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
